@@ -14,6 +14,9 @@ This repository contains the code used to generate the main results of the manus
 
 - `data/`  
   Contains water quality dataset used for analysis.
+  
+- `results/`  
+  Posterior samples (MCMC chains) generated from the Bayesian hierarchical models.
 
 ---
 
