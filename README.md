@@ -1,24 +1,19 @@
-# GlobalLakePBExpansion
+# Lake-Specific-Phytoplankton-Responses-Worldwide
 
 This repository contains the code used to generate the main results of the manuscript:
 
 **Zhang et al.**  
-*Latitudinal asymmetry in lake distribution may accelerate phytoplankton blooms in a warming climate*
+*Nutrient enrichment drives sigmoidal transitions in phytoplankton sensitivity to nutrients and temperature across global lakes*
 
 ---
 
 ## 📊 Repository Structure
 
-- `mu_figs/`  
-  Scripts for generating figures presented in the main text.
+- `figs/`  
+  Contains scripts used to generate all figures presented in the main text and Supplementary Information.
 
-- `mu_figs_si/`  
-  Scripts for generating figures in the Supplementary Information.
-
-- `open_source_dataset/`  
-  Open-access water quality datasets used in this study, including:
-  - Global lake water quality data  
-  - Lake water quality data from China  
+- `data/`  
+  Contains water quality dataset used for analysis.
 
 ---
 
